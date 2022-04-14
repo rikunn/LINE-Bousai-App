@@ -8,6 +8,6 @@
     "OldVerCount": 7,
     "OldVer": "1.5α/1.4α/1.3.1α/1.3α/1.2α/1.1α/1.0α",
     "OldContents":{"Contents1":"県ごとの予想震度を表示する機能の実装。","Contents2":"PLUM報時のマップを円と×マークではなく震度の色の円を表示するように変更。","Contents3":"内部処理の簡素化による軽量化。自動更新機能の実装。","Contents4":"緊急地震速報処理部のコード変更。","Contents5":"緊急地震速報が表示されない、マップが描画されていないまま送信されている問題を修正。","Contents6":"","Contents7":""}
-    "OldUpdateDateTime": {"DateTime1":"2022/04/15","DateTime2":"2022/04/13","DateTime3":"2022/04/10","DateTime4":"","DateTime5":"","DateTime6":"","DateTime7":""}
+    "OldUpdateDateTime": {"DateTime1":"2022/04/15","DateTime2":"2022/04/13","DateTime3":"2022/04/10","DateTime4":"2022/04/--","DateTime5":"2022/04/--","DateTime6":"2022/04/--","DateTime7":"2022/04/--"}
   }
 }
