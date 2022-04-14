@@ -4,6 +4,7 @@
     "DebugVer": "1.5.035",
     "LatestVerContents": "県ごとの予想震度を表示する機能の実装。",
     "LatestUpdateDateTime": "2022/04/15",
+    "UpdateFileCount":2,
     "UpdateFile": {"UpdateFile2":"LINE防災情報アプリ2.exe","UpdateFile1":"File\\PSwave"},
     "OldVerCount": 7,
     "OldVer": {"OldVer7":"1.5α","OldVer6":"1.4α","OldVer5":"1.3.1α","OldVer4":"1.3α","OldVer3":"1.2α","OldVer2":"1.1α","OldVer1":"1.0α"},
