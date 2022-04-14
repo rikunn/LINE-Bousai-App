@@ -5,7 +5,6 @@
     "LatestVerContents": "県ごとの予想震度を表示する機能の実装。",
     "LatestUpdateDateTime": "2022/04/15",
     "UpdateFileCount":2,
-    "UpdateFileString":"LINE防災情報アプリ2.exe,File\\PSwave",
-    "UpdateFileType": "ファイル,フォルダ"
+    "UpdateFileString":"LINE防災情報アプリ2.exe(ファイル),File\\PSwave(フォルダ)",
   }
 }
