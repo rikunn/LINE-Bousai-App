@@ -5,11 +5,7 @@
     "LatestVerContents": "県ごとの予想震度を表示する機能の実装。",
     "LatestUpdateDateTime": "2022/04/15",
     "UpdateFileCount":2,
-    "UpdateFileString": {"UpdateFile":"LINE防災情報アプリ2.exe","UpdateFile":"File\\PSwave"},
-    "UpdateFileType": {"UpdateFile":"ファイル","UpdateFile":"フォルダー"},
-    "OldVerCount": 7,
-    "OldVer": {"OldVer":"1.5α","OldVer":"1.4α","OldVer":"1.3.1α","OldVer":"1.3α","OldVer":"1.2α","OldVer":"1.1α","OldVer":"1.0α"},
-    "OldContents":{"Contents":"県ごとの予想震度を表示する機能の実装。","Contents":"PLUM報時のマップを円と×マークではなく震度の色の円を表示するように変更。","Contents":"内部処理の簡素化による軽量化。自動更新機能の実装。","Contents":"緊急地震速報処理部のコード変更。","Contents":"緊急地震速報が表示されない、マップが描画されていないまま送信されている問題を修正。","Contents":"","Contents":""},
-    "OldUpdateDateTime": {"DateTime":"2022/04/15","DateTime":"2022/04/13","DateTime":"2022/04/10","DateTime":"2022/04/--","DateTime":"2022/04/--","DateTime":"2022/04/--","DateTime":"2022/04/--"}
+    "UpdateFileString":"LINE防災情報アプリ2.exe,File\\PSwave",
+    "UpdateFileType": "ファイル,フォルダ"
   }
 }
