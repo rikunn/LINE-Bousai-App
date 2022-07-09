@@ -1,10 +1,10 @@
 {
   "VerView": {
-    "LatestVer": "1.5α",
-    "DebugVer": "1.5.035",
-    "LatestVerContents": "県ごとの予想震度を表示する機能の実装。",
-    "LatestUpdateDateTime": "2022/04/15",
+    "LatestVer": "2.0α",
+    "DebugVer": "2.0.00",
+    "LatestVerContents": "地震情報マップが震度4の場合、文字が読みにくくなっていた問題を修正。\n自動アップデート機能の実装をしました。",
+    "LatestUpdateDateTime": "2022/07/09",
     "UpdateFileCount":2,
-    "UpdateFileString":"LINE防災情報アプリ2.exe(ファイル),File\\PSwave(フォルダ)",
+    "UpdateFileString":"LINE防災情報アプリ2.exe(ファイル),File\\update.exe(新規ファイル)",
   }
 }
